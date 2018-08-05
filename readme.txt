@@ -4,5 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 Change 2.
 Create a new branch is quick and simple.
-Merge with no fast forward 2.
+Merge with no fast forward.
+Create new bev.
 
